@@ -4,17 +4,17 @@
 ### Hi there 👋, my name is Justin
 
 
-I'm a Full stach Developer base in Cape Town, SA. I have serious passion for web Development,currently graduated with a national diploma in information technology.
+I'm a Full stack Developer base in Cape Town, SA. I have serious passion for web Development,currently graduated with a national diploma in information technology.
 
 ## Skills
 
-JAVA 
-.NET 
-VUE JS 
-REACT 
-JS 
-HTML 
-CSS
+JAVA ,
+.NET ,
+VUE JS ,
+REACT ,
+JS ,
+HTML ,
+CSS ,
 
 - 🔭 I’m currently working on MeetUp 
 - 🌱 I’m currently learning Angular 
