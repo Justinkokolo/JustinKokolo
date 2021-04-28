@@ -14,7 +14,7 @@ VUE JS ,
 REACT ,
 JS ,
 HTML ,
-CSS ,
+CSS 
 
 - 🔭 I’m currently working on MeetUp 
 - 🌱 I’m currently learning Angular 
