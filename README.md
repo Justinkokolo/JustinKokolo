@@ -17,7 +17,7 @@ HTML ,
 CSS 
 
 - 🔭 I’m currently working on MeetUp 
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently learning React 
 
 
 
