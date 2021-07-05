@@ -1,5 +1,4 @@
 
-![I'm a full stack developer](https://media-exp1.licdn.com/dms/image/C5616AQG9e9_ERJ3oKQ/profile-displaybackgroundimage-shrink_200_800/0/1619572115589?e=1625097600&v=beta&t=JfCLSXNxO7IKpJAcLqbiIQAGwsxzSBoDVXjGCvvJRKo)
 
 ### Hi there 👋, my name is Justin
 
