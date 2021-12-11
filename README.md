@@ -9,13 +9,14 @@ I'm a Full stack Developer base in Cape Town, SA. I have serious passion for web
 
 JAVA ,
 .NET ,
+Typescript ,
 VUE JS ,
 REACT ,
 JS ,
 HTML ,
 CSS 
 
-- 🔭 I’m currently working on MeetUp 
+- 🔭 I’m currently working on uHost 
 - 🌱 I’m currently learning React 
 
 
