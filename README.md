@@ -14,9 +14,9 @@ REACT ,
 JS ,
 HTML ,
 CSS 
-
+<!-- 
 - 🔭 I’m currently working on uHost 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React  -->
 
 
 
