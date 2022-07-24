@@ -2,8 +2,7 @@
 
 ### Hi there 👋, my name is Justin Kokolo
 
-
-I'm a Full stack Developer base in Cape Town, SA. I have serious passion for web Development,currently graduated with a national diploma in information technology.
+I am a dedicated, committed, and driven software engineer currently specializing on the Front-End side.
 
 ## Skills
 
