@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Justin Kokolo
 
-I am a dedicated, committed, and driven software engineer currently specializing on the Front-End side.
+I am a dedicated, committed, and driven software engineer.
 
 ## Skills
 
