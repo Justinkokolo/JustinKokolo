@@ -8,6 +8,7 @@ I am a dedicated, committed, and driven software engineer.
 
 JAVA ,
 .NET ,
+C#,
 Typescript ,
 VUE JS ,
 REACT ,
